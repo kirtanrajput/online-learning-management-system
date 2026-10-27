@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "eureka.server.fetch.registry",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.server.fetch.registry'"
+  },
+  {
+    "name": "eureka.server.register.with.eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.server.register.with.eureka'"
+  }
+]}
